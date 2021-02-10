@@ -66,7 +66,7 @@ public class MainApp {
                 System.out.println();
                 break;
             default:
-                System.out.println("Чет не то выбрал, перезапусти программу и убедись что выбераеш 1, 2 или 3");
+                System.out.println("Чет не то выбрал, перезапусти программу и убедись что выбераешь 1, 2 или 3");
                 System.out.println("bye-bye");
         }
         context.close();
